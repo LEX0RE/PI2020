@@ -1,0 +1,1 @@
+-lopengl32 -lglu32 -lmingw32 /Qt/Tools/mingw730_64/x86_64-w64-mingw32/lib/libSDL2main.a C:/Windows/System32/SDL2.dll C:/Windows/System32/SDL2_ttf.dll C:/Windows/System32/SDL2_image.dll -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
