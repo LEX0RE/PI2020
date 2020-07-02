@@ -1,0 +1,72 @@
+71
+f "resources/Fonts/ENDORALT.ttf" 100 endoralt100
+f "resources/Fonts/ENDORALT.ttf" 50 endoralt50
+f "resources/Fonts/ENDORALT.ttf" 40 endoralt40
+f "resources/Fonts/ENDORALT.ttf" 180 endoralt180
+f "resources/Fonts/comic.ttf" 18 comic18
+f "resources/Fonts/comic.ttf" 10 comic10
+f "resources/Fonts/HintBox.ttf" 18 fontHintBox
+t "resources/on.png" On
+t "resources/off.png" Off
+t "resources/PotionImg.png" PotionImg
+t "resources/WaterTexture.png" WaterTexture
+t "resources/AliceBlack.png" AliceBlack
+t "resources/ArrowImg.png" ArrowImg
+t "resources/BowImg.png" BowImg
+t "resources/Shield1Img.png" Shield1Img
+t "resources/Shield2Img.png" Shield2Img
+t "resources/SwordImg.png" SwordImg
+t "resources/Background1.png" background
+t "resources/loadingScreen.png" loading
+t "resources/LifeBarEnnemi.png" lifeBarEnemy
+t "resources/LifeBarPlayer.png" lifeBarPlayer
+t "resources/XPBar1.png" xpBar
+t "resources/DungeonTexture.png" DungeonTexture
+t "resources/WorldMap.png" worldMap
+t "resources/dayStarSky.png" dayStarSky
+t "resources/grass.png" grass
+t "resources/crate.png" crateimg
+t "resources/InventoryBox1.png" InventoryBox1
+t "resources/InventoryBox2.png" InventoryBox2
+t "resources/House.png" HouseTexture
+t "resources/PineTexture.png" PineTexture
+t "resources/PotionTexture.png" PotionTexture
+t "resources/ShieldTexture.png" ShieldTexture
+t "resources/SwordTexture.png" SwordTexture
+t "resources/MusoleumTexture.png" MusoleumTexture
+t "resources/AliceColor.png" AliceColor
+t "resources/Cible.png" CibleColor
+t "resources/GoombaColor.png" GoombaColor
+t "resources/WitchColor.png" WitchColor
+t "resources/ZombieColor.png" ZombieColor
+t "resources/AwkwardsColor.png" AwkwardsColor
+t "resources/FireballColor.png" FireballColor
+m "resources/AliceDefault.obj" 1 AliceColor AliceDefault
+m "resources/Maps/Map_v1.obj" 1 grass MainMap
+m "resources/crate.obj" 1 crateimg crateobj
+m "resources/WaterPlane.obj" 1 WaterTexture WaterPlane
+m "resources/Dungeon.obj" 1 DungeonTexture Dungeon 
+m "resources/Arrow.obj" 1 ShieldTexture Arrow
+m "resources/Bow.obj" 1 ShieldTexture Bow
+m "resources/ChestClosed.obj" 1 ShieldTexture ChestClosed
+m "resources/ChestOpened.obj" 1 ShieldTexture ChestOpened
+m "resources/Grass.obj" 1 PineTexture Grass
+m "resources/House1.obj" 1 HouseTexture House1
+m "resources/Musoleum.obj" 1 MusoleumTexture Musoleum
+m "resources/PineTree.obj" 1 PineTexture PineTree
+m "resources/Potion.obj" 1 PotionTexture Potion
+m "resources/Rock1.obj" 1 ShieldTexture Rock1
+m "resources/Rock2.obj" 1 ShieldTexture Rock2
+m "resources/Rock3.obj" 1 ShieldTexture Rock3
+m "resources/Shield1.obj" 1 ShieldTexture Shield1
+m "resources/Shield2.obj" 1 ShieldTexture Shield2
+m "resources/Sword.obj" 1 SwordTexture Sword
+m "resources/Tree.obj" 1 PineTexture Tree
+m "resources/Volcano.obj" 1 grass Volcano
+m "resources/AliceMarche.obj" 40 AliceColor AliceMarche
+m "resources/cible.obj" 1 CibleColor Cible
+m "resources/Goomba.obj" 1 GoombaColor Goomba
+m "resources/Witch.obj" 1 WitchColor Witch
+m "resources/Zombie.obj" 1 ZombieColor Zombie
+m "resources/Awkwards.obj" 1 AwkwardsColor Awkwards
+m "resources/Fireball.obj" 1 FireballColor Fireball

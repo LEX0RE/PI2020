@@ -1,0 +1,52 @@
+#Exemple
+*Regardez-moi, je suis un exemple à suivre. Suivez-moi. Je ne sais plus trop quoi marquer pour rajouter du texte je veux seulement voir à quel point la gestion du dialogue fonctionne bien.
+*Deuxième ligne beaucoup moins longue.
+#end
+#deuxième message
+*test
+*12
+*test
+#end
+#LifeBar
+*Voici votre barre de vie, si elle tombe à 0, vous allez perdre toute votre progression actuelle.
+#end
+#Level
+*Votre niveau vous rend plus fort.
+#end
+#XPBar
+*Quand votre barre d'expérience est remplie, votre niveau augmente de 1 et votre barre recommence à 0.
+#end
+#MiniMap
+*Voici votre minimap pour ne pas vous perdre.
+#end
+#Quest
+*Voici le panneau de vos quêtes actuelles.
+#end
+#Sword
+*Appuie sur la touche «t» pour sortir ton épée.
+#end
+#Attaque1
+*Clique gauche pour donner un coup d'épée sur la cible. Assure-toi de regarder en direction de la cible pour la toucher.
+#end
+#SwapWeapon
+*Appuie sur «t» pour changer d'arme.
+#end
+#AttaqueArc
+*Tire une flèche sur la cible à l'aide du clique gauche.
+#end
+#GUIACTIONEND
+*Bravo ! Tu connais maintenant le fonctionnement du GUI et les actions qu'il est possible d'éxécuter.
+#end
+#OpenInventory
+*Appuies sur "tab" pour ouvrir l'inventaire.
+#end
+#UseEquip
+*Cliques sur la potion et appuies sur 'e' pour l'utiliser si nécessaier
+*Sélectionne l'épée et appuies sur 'e' pour l'équiper
+#end
+#CloseInventory
+*Réappuies sur "tab" pour fermer l'inventaire
+#end
+#INVENTORYEQUIPMENTEND
+*Félicitation! Vous avez terminé le tutoriel d'inventaire et d'équipement. Maintenant, reviens me parler.
+#end
