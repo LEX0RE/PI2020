@@ -1,13 +1,13 @@
-.idea
-Sources/cmake-build-debug/CMakeCache.txt
-Sources/cmake-build-debug/CMakeFiles/
-Sources/cmake-build-debug/Makefile
-Sources/cmake-build-debug/PI2020.cbp
-Sources/cmake-build-debug/PI2020.exe
-Sources/cmake-build-debug/cmake_install.cmake
-/Default/
-.cproject
-.project
-.settings/
-.vscode/
-CMakeLists.txt
+//.idea
+//Sources/cmake-build-debug/CMakeCache.txt
+//Sources/cmake-build-debug/CMakeFiles/
+//Sources/cmake-build-debug/Makefile
+//Sources/cmake-build-debug/PI2020.cbp
+//Sources/cmake-build-debug/PI2020.exe
+//Sources/cmake-build-debug/cmake_install.cmake
+// /Default/
+//.cproject
+//.project
+//.settings/
+//.vscode/
+//CMakeLists.txt
